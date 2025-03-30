@@ -22,7 +22,6 @@ Intended audience of this mod are those operating a BeamMP server and attempting
 
 ## Installation
 - Download the latest release archive from releases ([Direct link](https://github.com/enum-gg/Hoarsepower/releases/download/v1.0.0/release.zip))
-- Unpack archive into your BeamMP server files direct
-ory
+- Unpack archive into your BeamMP server files directory
 - ?????
 - Profit
